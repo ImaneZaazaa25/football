@@ -1,0 +1,16 @@
+{
+    "1": {
+        "NomEquipe": "real madrid",
+        "Joueurs": [
+            {"NumJoueur": 1, "NomJoueur": "Dupont", "PrenomJoueur": "Pierre"},
+            {"NumJoueur": 2, "NomJoueur": "Martin", "PrenomJoueur": "Paul"}
+        ]
+    },
+    "2": {
+        "NomEquipe": "raja",
+        "Joueurs": [
+            {"NumJoueur": 3, "NomJoueur": "Durand", "PrenomJoueur": "Louis"},
+            {"NumJoueur": 4, "NomJoueur": "Lemoine", "PrenomJoueur": "Marie"}
+        ]
+    }
+}
